@@ -1,0 +1,23 @@
+{
+  "name": "namaste-react",
+  "version": "1.0.0",
+  "description": "This is Namaste React",
+  "keywords": [
+    "REACT"
+  ],
+  "homepage": "https://github.com/chappidiudaykiran/NAMASTE-REACT#readme",
+  "bugs": {
+    "url": "https://github.com/chappidiudaykiran/NAMASTE-REACT/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chappidiudaykiran/NAMASTE-REACT.git"
+  },
+  "license": "ISC",
+  "author": "Chappidi Uday Kiran",
+  "type": "commonjs",
+  "main": "APP.js",
+  "scripts": {
+    "test": "jest"
+  }
+}
