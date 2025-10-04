@@ -18,6 +18,16 @@
   "type": "commonjs",
   "main": "APP.js",
   "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html",
     "test": "jest"
+  },
+  "devDependencies": {
+    "live-server": "^1.2.2",
+    "parcel-bundler": "^1.12.5"
+  },
+  "dependencies": {
+    "react": "^19.2.0",
+    "react-dom": "^19.2.0"
   }
 }
